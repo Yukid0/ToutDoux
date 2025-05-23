@@ -1,4 +1,4 @@
-# NovaList - Gestionnaire de Tâches avec MySQL et Node.js
+# ToutDoux - Gestionnaire de Tâches avec MySQL et Node.js
 
 Une application simple de gestion de tâches qui utilise Node.js, Express et MySQL pour stocker les données.
 
